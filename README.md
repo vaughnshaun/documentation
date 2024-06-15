@@ -2,7 +2,7 @@
 This documents everything I am learning
 
 ## Setup GitHub Pages Workflow
-This is required to override the default GitHub Pages workflow with the custom mkdocks
+In GitHub go to Settings -> Pages. Change the deployment branch to gh-pages. gh-pages is where all files get published. publish-gh-pages.yml will publish the code whenever changes are pushed to the main branch.
 
 ## Create mkdocs.yml
 This generates all static content. Create navigations as needed. That's it mkdocs is simple, minimalistic, and straight to the point.
