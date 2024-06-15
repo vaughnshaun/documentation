@@ -1,6 +1,12 @@
 # Documentation Repo
 This documents everything I am learning
 
+## Setup GitHub Pages Workflow
+This is required to override the default GitHub Pages workflow with the custom mkdocks
+
+## Create mkdocs.yml
+This generates all static content. Create navigations as needed. That's it mkdocs is simple, minimalistic, and straight to the point.
+
 ## Run using Python
 
 > Install mkdocs with Python
