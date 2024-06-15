@@ -17,9 +17,9 @@ nav:
   - Home:
     - Welcome: index.md
   - Azure: 
-    - Overview: azure\overview.md
+    - Overview: azure/overview.md
     - Certifications:
       - Az-900:
-        - Overview: azure\certifications\az-900\overview.md
+        - Overview: azure/certifications/az-900/overview.md
       - Az-104:
-        - Overview: azure\certifications\az-104\overview.md
+        - Overview: azure/certifications/az-104/overview.md
