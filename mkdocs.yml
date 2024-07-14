@@ -13,6 +13,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.sections
+markdown_extensions:
+  - attr_list
 nav:
   - Home:
     - Welcome: index.md
@@ -21,5 +23,9 @@ nav:
     - Certifications:
       - Az-900:
         - Overview: azure/certifications/az-900/overview.md
+        - Cloud Concepts: 
+          - Overview: azure/certifications/az-900/cloud-concepts/overview.md
+          - Cloud Computing: azure/certifications/az-900/cloud-concepts/cloud-computing.md
+        - Glossary: azure/certifications/az-900/glossary.md
       - Az-104:
         - Overview: azure/certifications/az-104/overview.md
